@@ -4,9 +4,9 @@ import { BrowserRouter as Router, Link, Route, Routes } from 'react-router-dom';
 
 import './App.css';
 import Main from './frontend/main';
-import Create from './Components/Create';
-import Expand from './Components/Expand';
-import View from './Components/View';
+import Create from './Components/create';
+import Expand from './Components/expand';
+import View from './Components/view';
 
 function App() {
   return (

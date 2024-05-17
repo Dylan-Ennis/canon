@@ -24,7 +24,7 @@ const TextInputForm = ({ onSubmit }) => {
             type="text"
             value={inputValue}
             onChange={handleInputChange}
-            placeholder="Type your reply here..."
+            placeholder="Begin your own continuation here..."
           />
         </label>
         <button type="submit">Submit</button>
